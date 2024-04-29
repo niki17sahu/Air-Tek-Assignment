@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Air-Tek Coding Exercise", "Air-Tek Coding Exercise\Air-Tek Coding Exercise.csproj", "{6F14C005-3912-49FF-9D76-721F74459C8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F14C005-3912-49FF-9D76-721F74459C8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F14C005-3912-49FF-9D76-721F74459C8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F14C005-3912-49FF-9D76-721F74459C8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F14C005-3912-49FF-9D76-721F74459C8B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {565FBBA1-657C-4115-A5BF-628F218480B1}
+	EndGlobalSection
+EndGlobal

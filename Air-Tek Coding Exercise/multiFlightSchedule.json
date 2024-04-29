@@ -1,0 +1,56 @@
+[
+  {
+    "FlightNumber": 1,
+    "Source": "YUL",
+    "Destination": "YYZ",
+    "Day": 1
+  },
+  {
+    "FlightNumber": 2,
+    "Source": "YUL",
+    "Destination": "YYC",
+    "Day": 1
+  },
+  {
+    "FlightNumber": 3,
+    "Source": "YUL",
+    "Destination": "YVR",
+    "Day": 1
+  },
+  {
+    "FlightNumber": 4,
+    "Source": "YUL",
+    "Destination": "YYZ",
+    "Day": 2
+  },
+  {
+    "FlightNumber": 5,
+    "Source": "YUL",
+    "Destination": "YYC",
+    "Day": 2
+  },
+  {
+    "FlightNumber": 6,
+    "Source": "YUL",
+    "Destination": "YVR",
+    "Day": 2
+  },
+  {
+    "FlightNumber": 7,
+    "Source": "YUL",
+    "Destination": "YYZ",
+    "Day": 3
+  },
+  {
+    "FlightNumber": 8,
+    "Source": "YUL",
+    "Destination": "YYC",
+    "Day": 3
+  },
+  {
+    "FlightNumber": 9,
+    "Source": "YUL",
+    "Destination": "YVR",
+    "Day": 3
+  }
+]

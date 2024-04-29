@@ -1,0 +1,40 @@
+C:\Users\pksah\source\repos\Air-Tek Coding Exercise\Air-Tek Coding Exercise\bin\Debug\System.Text.Json.dll
+C:\Users\pksah\source\repos\Air-Tek Coding Exercise\Air-Tek Coding Exercise\bin\Debug\Air-Tek Coding Exercise.exe.config
+C:\Users\pksah\source\repos\Air-Tek Coding Exercise\Air-Tek Coding Exercise\bin\Debug\Air-Tek Coding Exercise.exe
+C:\Users\pksah\source\repos\Air-Tek Coding Exercise\Air-Tek Coding Exercise\bin\Debug\Air-Tek Coding Exercise.pdb
+C:\Users\pksah\source\repos\Air-Tek Coding Exercise\Air-Tek Coding Exercise\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\pksah\source\repos\Air-Tek Coding Exercise\Air-Tek Coding Exercise\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\pksah\source\repos\Air-Tek Coding Exercise\Air-Tek Coding Exercise\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\pksah\source\repos\Air-Tek Coding Exercise\Air-Tek Coding Exercise\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\pksah\source\repos\Air-Tek Coding Exercise\Air-Tek Coding Exercise\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\pksah\source\repos\Air-Tek Coding Exercise\Air-Tek Coding Exercise\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\pksah\source\repos\Air-Tek Coding Exercise\Air-Tek Coding Exercise\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\pksah\source\repos\Air-Tek Coding Exercise\Air-Tek Coding Exercise\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\pksah\source\repos\Air-Tek Coding Exercise\Air-Tek Coding Exercise\bin\Debug\Newtonsoft.Json.dll
+C:\Users\pksah\source\repos\Air-Tek Coding Exercise\Air-Tek Coding Exercise\bin\Debug\System.Buffers.dll
+C:\Users\pksah\source\repos\Air-Tek Coding Exercise\Air-Tek Coding Exercise\bin\Debug\System.Memory.dll
+C:\Users\pksah\source\repos\Air-Tek Coding Exercise\Air-Tek Coding Exercise\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\pksah\source\repos\Air-Tek Coding Exercise\Air-Tek Coding Exercise\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\pksah\source\repos\Air-Tek Coding Exercise\Air-Tek Coding Exercise\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\pksah\source\repos\Air-Tek Coding Exercise\Air-Tek Coding Exercise\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\pksah\source\repos\Air-Tek Coding Exercise\Air-Tek Coding Exercise\bin\Debug\System.ValueTuple.dll
+C:\Users\pksah\source\repos\Air-Tek Coding Exercise\Air-Tek Coding Exercise\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\pksah\source\repos\Air-Tek Coding Exercise\Air-Tek Coding Exercise\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\pksah\source\repos\Air-Tek Coding Exercise\Air-Tek Coding Exercise\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\pksah\source\repos\Air-Tek Coding Exercise\Air-Tek Coding Exercise\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\pksah\source\repos\Air-Tek Coding Exercise\Air-Tek Coding Exercise\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\pksah\source\repos\Air-Tek Coding Exercise\Air-Tek Coding Exercise\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\pksah\source\repos\Air-Tek Coding Exercise\Air-Tek Coding Exercise\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\pksah\source\repos\Air-Tek Coding Exercise\Air-Tek Coding Exercise\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\pksah\source\repos\Air-Tek Coding Exercise\Air-Tek Coding Exercise\bin\Debug\Newtonsoft.Json.xml
+C:\Users\pksah\source\repos\Air-Tek Coding Exercise\Air-Tek Coding Exercise\bin\Debug\System.Buffers.xml
+C:\Users\pksah\source\repos\Air-Tek Coding Exercise\Air-Tek Coding Exercise\bin\Debug\System.Memory.xml
+C:\Users\pksah\source\repos\Air-Tek Coding Exercise\Air-Tek Coding Exercise\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\pksah\source\repos\Air-Tek Coding Exercise\Air-Tek Coding Exercise\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\pksah\source\repos\Air-Tek Coding Exercise\Air-Tek Coding Exercise\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\pksah\source\repos\Air-Tek Coding Exercise\Air-Tek Coding Exercise\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\pksah\source\repos\Air-Tek Coding Exercise\Air-Tek Coding Exercise\bin\Debug\System.ValueTuple.xml
+C:\Users\pksah\source\repos\Air-Tek Coding Exercise\Air-Tek Coding Exercise\obj\Debug\Air-Tek Coding Exercise.csproj.CoreCompileInputs.cache
+C:\Users\pksah\source\repos\Air-Tek Coding Exercise\Air-Tek Coding Exercise\obj\Debug\Air-Tek Coding Exercise.csproj.CopyComplete
+C:\Users\pksah\source\repos\Air-Tek Coding Exercise\Air-Tek Coding Exercise\obj\Debug\Air-Tek Coding Exercise.exe
+C:\Users\pksah\source\repos\Air-Tek Coding Exercise\Air-Tek Coding Exercise\obj\Debug\Air-Tek Coding Exercise.pdb
